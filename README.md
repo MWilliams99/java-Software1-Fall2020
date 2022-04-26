@@ -4,6 +4,9 @@
 Software 1 project that I completed in Fall 2020 for the C482 course at Western Governors University.  
 Every student is given the same set of requirements for this project, which can be found [here](../MWilliams99-patch-1/ProjectRequirements.md).
 
+I used Java to code this project as that is what I chose to focus in during my Software Development degree. This project also includes javaFX to code the GUI fxml files and Javadoc to document the project code.  
+I used IntelliJ IDEA and SceneBuilder to create this project.
+
 This project has the student create a program that will display parts and products that the user can add through forms in the program. Parts can exist on their own, and products are made up of parts. Part and product objects only persist throughout the time that the program is open, once the program has been closed any added parts and products no longer exist.
 
 The Part.java file is provided and is untouched by the student. 
