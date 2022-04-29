@@ -9,7 +9,7 @@ I used IntelliJ IDEA and SceneBuilder to create this project.
 
 While it was not required, the instructors recommended using the MVC design pattern as described [here](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm).
 
-This project has the student create a program that will display parts and products that the user can add through forms in the program. Parts can exist on their own, and products are made up of parts. Part and product objects only persist throughout the time that the program is open, once the program has been closed any added parts and products no longer exist.
+This project has the student create a program that will display parts and products that the user can add, edit, and delete through forms in the program. Parts can exist on their own, and products are made up of parts. Part and product objects only persist throughout the time that the program is open, once the program has been closed any added parts and products no longer exist.
 
 The Part.java file is provided and is untouched by the student. 
 
