@@ -4,6 +4,8 @@
 Software 1 project that I completed in Fall 2020 for the C482 course at Western Governors University.  
 Every student is given the same set of requirements for this project, which can be found [here](../main/ProjectRequirements.md).
 
+This project was completed on December 28th, 2020.
+
 I used Java to code this project as that is what I chose to focus in during my Software Development degree. This project also includes javaFX to code the GUI fxml files and Javadoc to document the project code.  
 I used IntelliJ IDEA and SceneBuilder to create this project.
 
